@@ -1,2 +1,2 @@
 # Environment-Nutrient-availability-impact on intracellular metabolite amounts
-Simulation script contains the puthoun script used for the control and trials
+Simulation script contains the python scripts used for the control and trials
